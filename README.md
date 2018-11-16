@@ -1,6 +1,6 @@
 # RandomTaPas
-<h1><b>Random Tanglegram Partitions (Random TaPas):</h1>
-<h2>An Alexandrian approach to the cophylogenetic Gordian knot.</b></h2>
+<h1>Random Tanglegram Partitions (Random TaPas):</h1>
+<h2>An Alexandrian approach to the cophylogenetic Gordian knot.</h2>
 <h3>Juan Antonio Balbuena, Óscar A. Pérez-Escobar, Cristina Llopis-Belenguer, Isabel Blasco-Costa</h3>
 <p><b>LICENSE:</b> MIT </p> 
 <p><b>YEAR:</b> 2018  </p> 
