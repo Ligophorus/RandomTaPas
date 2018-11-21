@@ -8,3 +8,4 @@
 <b>Orchids_x_Bees.txt -</b> Association matrix, ASCII file <br>
 <b>BeeTree_Abbr_terminal_names.txt -</b> Bee pollinators terminal name abbreviations<br>
  
+We thank Dr Santiago Ramírez, University of California Davis for allowing us to share these data<br>
