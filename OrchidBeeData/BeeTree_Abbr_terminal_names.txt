@@ -1,4 +1,5 @@
-The original terminal names of the euglossine bee pollinators tree of Ramírez et al. (2011 Science 333: 1742-1746) have been shortened to facilitate graphical visualization of results as follows:
+The original terminal names of the euglossine bee pollinators tree of Ramírez et al. (2011 Science 333: 1742-1746)
+have been shortened to facilitate graphical visualization of results as follows:
 
 Name in Ramírez et al.		Shortened name
 ===========================================
@@ -31,3 +32,4 @@ Eulaema_meriana_EU3				Eul_me
 Eulaema_mocsaryi_EU20			Eul_mo
 Eulaema_nigrita_EU7				Eul_ni
 Exaerete_smaragdina_EU1			Exa_sm
+==============================================
