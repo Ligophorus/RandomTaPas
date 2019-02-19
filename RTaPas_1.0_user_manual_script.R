@@ -209,7 +209,7 @@ tangle.gram <- function(treeH, treeS, hs, colgrad, rcolgrad= TRUE, nbreaks=50,
   #   node.tag: specifies whether maximum likelihood estimators of ancestral
   #             states will be computed 
   #   cexpt: size of color points at terminals and nodes
-  #   ...: any option available in cophylo.plot  
+  #   ...: any option available in plot.cophylo (from phytools package)  
   # Returns:
   #   A tanglegram with quantitative information displayed as heatmap.				
   rescale.range <- function(x) {
@@ -253,7 +253,7 @@ tangle.gram <- function(treeH, treeS, hs, colgrad, rcolgrad= TRUE, nbreaks=50,
 }
 ############ end of function declaration ######################################
 #
-# Read data (It is assumed that input files are in the working directiory
+# Read data (It is assumed that input files are in the working directory
 # of the R session)
 TreeH <- read.nexus("Pfluviatilis.tre")	      # Amphipod (host) consensus tree
 TreeS <- read.nexus("Cparvum.tre")	      # Trematode (symbiont) consensus tree
