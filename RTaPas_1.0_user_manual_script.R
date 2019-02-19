@@ -206,7 +206,7 @@ tangle.gram <- function(treeH, treeS, hs, colgrad, rcolgrad= TRUE, nbreaks=50,
   #             or absolute (0-100)
   #   nbreaks: number of discrete values along color scale
   #   fqtab: dataframe produced with link.freq
-  #   node.taq: specifies whether maximum likelihood estimators of ancestral
+  #   node.tag: specifies whether maximum likelihood estimators of ancestral
   #             states will be computed 
   #   cexpt: size of color points at terminals and nodes
   #   ...: any option available in cophylo.plot  
