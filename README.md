@@ -2,7 +2,7 @@
 <h1>Random Tanglegram Partitions (Random TaPas):</h1>
 <h2>An Alexandrian approach to the cophylogenetic Gordian knot.</h2>
 <h3>Juan A. Balbuena, Óscar A. Pérez-Escobar, Cristina Llopis-Belenguer, Isabel Blasco-Costa</h3>
-<h3><i>Systematic Biology</i> https://doi.org/10.1093/sysbio/syaa033</h3>
+<h3><i>Systematic Biology</i> 69(6): 1212–1230, https://doi.org/10.1093/sysbio/syaa033</h3>
 <p><b>LICENSE:</b> CC0 </p> 
 <p><b>YEAR:</b> 2020  </p> 
 <p>Symbiosis Ecol. & Evol. Lab @ University of Valencia</p>
